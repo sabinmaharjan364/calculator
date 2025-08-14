@@ -1,1 +1,4 @@
-calc.sabin.info.np
+Name/Host: calc
+Type: CNAME
+Value: sabinmaharjan364.github.io
+TTL: default or 1 hour
